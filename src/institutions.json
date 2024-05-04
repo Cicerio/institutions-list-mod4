@@ -1,0 +1,20 @@
+{
+    "institutions": [
+      {
+        "name": "Olympic College",
+        "date": ["October 2018", "Present"],
+        "desc": "The college that I am currently at. I've had a great experience here, and the cheap tuition keeps me coming back to learn." 
+      },
+      {
+        
+        "name": "North Mason High School",
+        "date": ["September 2015", "June 2020"],
+        "desc": "The high school that I went to. Participated heavily in the music program there, the music director there was fantastic."
+      },
+      {
+        "name": "Sand Hill Elementary",
+        "date": ["September 2009", "June 2015"],
+        "desc": "The elementary school I attended before North Mason. I honestly don't remember too much about this place since I was so little, but it was fun being there."
+      }
+    ]
+  }
